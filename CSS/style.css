@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+
+
+
+
 .container {
     width: 55%;
     margin: auto;
@@ -103,6 +107,11 @@
     right: 0px; 
 }
 
+
+
 .product:hover {
-    cursor: pointer ;
+    cursor: url(https://cur.cursors-4u.net/symbols/sym-1/sym46.cur), auto !important;
 }
+
+
+ 
